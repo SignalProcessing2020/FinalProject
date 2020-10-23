@@ -17,4 +17,5 @@
 
 ```
 - <strong> Do not add any other folders </strong>.
-- <strong> Commit all the reports due in the project iin this repository as well as submit them on moodle. </strong>
+- Commit the code regularly.
+- <strong> Commit all the reports due in the project in this repository as well as submit them on moodle. </strong>
